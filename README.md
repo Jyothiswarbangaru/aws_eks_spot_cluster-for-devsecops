@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 EKS K8S cluster 
 ---------------
 ### Note: This is for Lab purpose, Not for PROD purpose
