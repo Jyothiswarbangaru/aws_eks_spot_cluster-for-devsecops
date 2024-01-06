@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EKS K8S cluster 
 ---------------
 ### Note: This is for Lab purpose, Not for PROD purpose
@@ -57,3 +58,7 @@ eksctl create cluster --config-file=[file-name].yaml
 ```
 eksctl delete cluster --config-file=[file-name].yaml
 ```
+=======
+# aws_eks_spot_cluster
+eksctl
+>>>>>>> 79efea898e4c3069bb819e1c5f919b8a40efd947
